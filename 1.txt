@@ -3,3 +3,5 @@ code : url of BB
 login : env.properties.getusername 
         env.properties.password 
 need to add more data 
+
+check the git diff
